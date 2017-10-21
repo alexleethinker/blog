@@ -30,6 +30,8 @@ def foo
   puts 'foo'
 end
 ```
+---
+
 <!-- more -->
 
 {% highlight ruby %}
