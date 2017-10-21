@@ -6,7 +6,7 @@
 # Site
 title: AI Studio
 subtitle:
-description: Place to gather and share AI knowledge
+description: Place to gather and share
 author: Zhi LI
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -120,7 +120,7 @@ menu:
   categories: categories/
   #about: about/
   #archives: archives/
-  #tags: tags/
+  tags: tags/
   #sitemap: /sitemap.xml
   #commonweal: /404.html
 
